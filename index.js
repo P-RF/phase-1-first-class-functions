@@ -15,6 +15,6 @@ function returnsANamedFunction() {
 // Returns an anonymous function
 function returnsAnAnonymousFunction() {
     return function() {
-        console.log("Anonymous function.");
+        console.log("");
     };
 }
